@@ -31,3 +31,9 @@ Software Engineering for me is a ~~difficult~~ satisfying challenge
 
 1. **External Link:** View my [Latest Project](https://ratemydininghall.cc)
 2. **Relative Link** View the [README](README.md)
+
+### Goals
+
+- [x] Complete this lab
+- [ ] Complete this course
+- [ ] Complete my degree
