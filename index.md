@@ -9,6 +9,7 @@ print("Hello World!")
 1. [About Me](#about-me)
 2. [Files In This Repo](#files-in-this-repo)
 3. [Links](#links)
+4. [Goals](#goals)
 
 ## About Me
 
